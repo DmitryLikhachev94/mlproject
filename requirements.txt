@@ -7,4 +7,5 @@ catboost
 xgboost
 dataclas
 dill
+flask
 # -e .
